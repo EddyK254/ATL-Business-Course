@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="6dac673c-2207-48b9-8138-739948be5a83" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>CAM 1.3</schemaversion>
+        <lom:lom>
+            <lom:general>
+                <lom:title>
+                    <lom:string>BUILDING YOUR BUSINESS MODEL</lom:string>
+                </lom:title>
+            </lom:general>
+            <lom:metaMetadata>
+                <lom:metadataSchema>LOMv1.0</lom:metadataSchema>
+                <lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
+            </lom:metaMetadata>
+        </lom:lom>
+    </metadata>
+    <organizations default="45a15e10-2bec-11f0-86d6-869f5d0278a1_org">
+        <organization identifier="45a15e10-2bec-11f0-86d6-869f5d0278a1_org">
+            <title>BUILDING YOUR BUSINESS MODEL</title>
+            <item identifier="45a15e10-2bec-11f0-86d6-869f5d0278a1" identifierref="resource">
+                <title>BUILDING YOUR BUSINESS MODEL</title>
+                <imsss:sequencing>
+                    <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"></imsss:deliveryControls>
+                </imsss:sequencing>
+            </item>
+            <imsss:sequencing>
+                <imsss:controlMode flow="true"></imsss:controlMode>
+            </imsss:sequencing>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+            <file href="res/js/fast-average-color-7.1.0.umd.js"></file>
+            <file href="res/js/focus-visible-5.2.0.iife.js"></file>
+            <file href="res/js/hyperhtml-2.34.2.umd.js"></file>
+            <file href="res/js/immer-6.0.9.umd.js"></file>
+            <file href="res/js/output.min.js"></file>
+            <file href="res/js/protobufjs-6.8.8.umd.js"></file>
+            <file href="res/js/react-18.2.0.umd.js"></file>
+            <file href="res/js/react-dom-18.2.0.umd.js"></file>
+            <file href="res/js/reatom-v1-1.1.5.umd.js"></file>
+            <file href="res/js/res/EmptyStateLock-JOKGWW5F.png"></file>
+            <file href="res/styles/bundle.css"></file>
+            <file href="res/styles/fonts/jb-mono-bold-italic_75ca6e40.woff"></file>
+            <file href="res/styles/fonts/jb-mono-bold_98303ebd.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular-italic_d49a26b5.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular_8c33f3c.woff"></file>
+            <file href="res/styles/fonts/roboto-v29-latin-ext_latin_cyrillic-500_b8fca8bb.woff2"></file>
+            <file href="res/styles/fonts/roboto-v29-latin-ext_latin_cyrillic-700_e5ed3daf.woff2"></file>
+            <file href="res/styles/fonts/roboto-v29-latin-ext_latin_cyrillic-regular_4aff7ab4.woff2"></file>
+            <file href="res/styles/res/FallbackTile_88eb17b.svg"></file>
+            <file href="res/styles/res/arrow-icon-left_9424b54a.svg"></file>
+            <file href="res/styles/res/arrow-icon-right_4bfe2449.svg"></file>
+            <file href="res/styles/res/default-background-image_301b2040.svg"></file>
+            <file href="res/styles/res/watermark-logo_9d0cfd7e.svg"></file>
+            <file href="res/unsupportedBrowser/fonts/fonts.css"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-bold-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-bold.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-medium-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-medium.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-regular-italic.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto-regular.woff2"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.html"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.js"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Chrome.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Edge.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Firefox.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Safari.png"></file>
+            <file href="res/goodbye.html"></file>
+            <file href="res/fonts/inter/inter-bold-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-bold.woff2"></file>
+            <file href="res/fonts/inter/inter-regular-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-regular.woff2"></file>
+            <file href="res/fonts/inter/inter-semiBold-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-semiBold.woff2"></file>
+            <file href="res/fonts/inter/inter-bold-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-bold.woff2"></file>
+            <file href="res/fonts/inter/inter-regular-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-regular.woff2"></file>
+            <file href="res/fonts/inter/inter-semiBold-italic.woff2"></file>
+            <file href="res/fonts/inter/inter-semiBold.woff2"></file>
+            <file href="res/index.html"></file>
+            <file href="res/connectors/scorm.min.js"></file>
+            <file href="res/lng/en-US/messages.json"></file>
+            <file href="res/data-1.json"></file>
+            <file href="res/data/islen-90685646/b74d5be8-e9de-11ef-8a2c-1646ae8b3169.jpg"></file>
+            <file href="res/data/islen-90685646/5e75d3a8-e48b-11ef-b10d-b294ccabfc97.png"></file>
+            <file href="res/data/islen-90685646/a5a40613-e9df-11ef-bd36-1edcd9c15801.jpg"></file>
+            <file href="res/data/islen-90685646/5bf07348-e9e0-11ef-8a2d-1646ae8b3169.jpg"></file>
+            <file href="res/data/islen-90685646/1d435a60-e9e1-11ef-bd8f-1edcd9c15801.jpg"></file>
+            <file href="res/data/islen-90685646/e12ee44d-e9e1-11ef-8a64-1646ae8b3169.jpg"></file>
+            <file href="res/data/islen-90685646/424bb1e5-e9e2-11ef-8a64-1646ae8b3169.png"></file>
+            <file href="res/data/islen-90685646/15d5a473-9db2-11ef-9a09-5617e6b24e45.png"></file>
+            <file href="res/data/islen-90685646/52d6b516-ea1b-11ef-85f2-aa1991f0e597.mp4"></file>
+            <file href="res/data/islen-90685646/d243bee9-e45b-11ef-a8a7-3a4ac3cbb00c.pptx"></file>
+            <file href="res/data/islen-90685646/61a510b2-e9f5-11ef-be92-1edcd9c15801.jpg"></file>
+        </resource>
+    </resources>
+</manifest>
